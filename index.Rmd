@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: "Sruthi Hundi"
 output:
   html_document:
     theme: cosmo
